@@ -63,8 +63,9 @@ The project aimed to address the following key questions:
 
 ## Work Done
 - **Exploring Data:** Initial exploration to understand the dataset and its structure.
-- **Handling Null and Duplicated Data:** Cleaning the dataset by managing missing values and removing duplicate entries.
-- **Data Wrangling:** Transforming and preparing the data for analysis, including feature engineering and normalization.
+- **Handling Null and Duplicated Data:** Cleaning the dataset by managing missing values and removing duplicate entries using pandas and numpy.
+- **Data Wrangling:** Transforming and preparing the data for analysis, including feature engineering and normalization using pandas and numpy.
+- **visualization:** Using different types of plots with the help of matplotliv and seaborn.
 
 ## Conclusion
 This analysis provides a comprehensive understanding of the Google Play Store's app landscape. The insights generated can help developers, marketers, and business strategists make data-driven decisions to optimize app offerings, target the right audience, and enhance user engagement.
