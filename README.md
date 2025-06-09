@@ -1,12 +1,14 @@
 # Play Store App Review Analysis
 
+![image](https://github.com/user-attachments/assets/76a5ac84-b317-48ce-972a-b9c3b51091e1)
+
 ## Project Name
 **Play Store App Review Analysis**
 
 ## Project Summary
-The rapid expansion of the mobile app market has made it essential for developers, marketers, and business strategists to understand the landscape of applications available on platforms like the Google Play Store. This project focused on performing an Exploratory Data Analysis (EDA) on Google Play Store app data to extract meaningful insights and trends that can inform various stakeholders in the mobile app ecosystem.
-
-The dataset used for this analysis includes various attributes such as 'App', 'Category', 'Rating', 'Reviews', 'Size', 'Installs', 'Type', 'Price', 'Content Rating', 'Genres', 'Last Updated', 'Current Ver', and 'Android Ver'.
+* The rapid expansion of the mobile app market has made it essential for developers, marketers, and business strategists to understand the landscape of applications available on platforms like the Google Play Store. 
+* This project focused on performing an Exploratory Data Analysis (EDA) on Google Play Store app data to extract meaningful insights and trends that can inform various stakeholders in the mobile app ecosystem.
+* The dataset used for this analysis includes various attributes such as 'App', 'Category', 'Rating', 'Reviews', 'Size', 'Installs', 'Type', 'Price', 'Content Rating', 'Genres', 'Last Updated', 'Current Ver', and 'Android Ver'.
 
 ## Objectives
 The primary objectives of this EDA project were to:
